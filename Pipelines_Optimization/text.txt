@@ -1,0 +1,7 @@
+Machine learning pipeline -> automates a machine learning workflow'
+A pipeline can involve : Pre-preocessing, Feature selection, classification/regression and 
+post-preocessing
+
+Optimization -> Tuning the model for best performance.
+
+sklearn -> pipeline setup
